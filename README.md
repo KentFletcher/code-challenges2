@@ -1,1 +1,2 @@
-# code-challenges2
+# data-structures-and-algorithms
+Place to store code challenges
